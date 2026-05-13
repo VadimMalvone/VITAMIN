@@ -1,1 +1,0 @@
-Non puoi farlo perchè non è implementato il for All (e nel codice viene usato quello per fare model checking CTL)

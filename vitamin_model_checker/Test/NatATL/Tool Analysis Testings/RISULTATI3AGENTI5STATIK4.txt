@@ -1,6 +1,0 @@
-TRUE
-64.14675855636597 seconds
-
-FALSE
-False, no states satisfying (AGe) have been found!
-Elapsed time is 88.87563562393188 seconds.

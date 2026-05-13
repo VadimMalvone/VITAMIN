@@ -1,1 +1,0 @@
-from vitamin_model_checker.logics.OATL.parser import *
